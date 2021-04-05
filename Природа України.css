@@ -1,0 +1,25 @@
+body{
+	background-color: lightgreen;
+}
+
+img {
+	height: 207px; 
+	width:230px;
+
+}
+
+.image {
+	width: 15%;
+	height:auto;
+	float: left;
+}
+.text{
+	width: 70% ;
+	float: left;
+}
+.information {
+	min-height: 240px;
+}
+p{
+	font-size: 20px;
+}
